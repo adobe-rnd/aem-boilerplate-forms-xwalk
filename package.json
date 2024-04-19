@@ -44,7 +44,7 @@
     "@aemforms/af-core": "0.22.76",
     "@aemforms/af-formatters": "0.22.76",
     "@testing-library/dom": "^9.3.4",
-    "@testing-library/user-event": "14.3.0",
+    "@testing-library/user-event": "14.5.2",
     "c8": "^9.0.0",
     "dom-compare": "^0.6.0",
     "fs-extra": "^11.2.0",
